@@ -18,6 +18,7 @@ Lineage OS:
 * [17.1 bvS](https://sourceforge.net/projects/andyyan-gsi/files/lineage-17.x/lineage-17.1-20210808-UNOFFICIAL-treble_a64_bvS.img.xz/download)
 * [18.1 bvS](https://sourceforge.net/projects/andyyan-gsi/files/lineage-18.x/lineage-18.1-20220715-UNOFFICIAL-a64_bvS.img.xz/download) /
 [18.1 bvS VNDKLite](https://sourceforge.net/projects/andyyan-gsi/files/lineage-18.x/lineage-18.1-20220715-UNOFFICIAL-a64_bvS-vndklite.img.xz/download)
+* [19.1 VNDKLite](https://sourceforge.net/projects/andyyan-gsi/files/lineage-19.x/lineage-19.1-20250606-UNOFFICIAL-a64_bvN-vndklite.img.gz/download?use_mirror=liquidtelecom)
 
 Havoc OS:
 [Here](https://sourceforge.net/projects/havoc-os/files/a64-ab/)
