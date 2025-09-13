@@ -16,8 +16,9 @@ icon: 'fa-brands fa-google'
 Lineage OS:
 * [16.0 bvN](https://sourceforge.net/projects/andyyan-gsi/files/lineage-16.x/lineage-16.0-20191017-UNOFFICIAL-treble_a64_bvN.img.xz/download)
 * [17.1 bvS](https://sourceforge.net/projects/andyyan-gsi/files/lineage-17.x/lineage-17.1-20210808-UNOFFICIAL-treble_a64_bvS.img.xz/download)
-* [18.1 bvS](https://sourceforge.net/projects/andyyan-gsi/files/lineage-18.x/lineage-18.1-20220715-UNOFFICIAL-a64_bvS.img.xz/download) /
-[18.1 bvS VNDKLite](https://sourceforge.net/projects/andyyan-gsi/files/lineage-18.x/lineage-18.1-20220715-UNOFFICIAL-a64_bvS-vndklite.img.xz/download)
+* [18.1 bvS](https://sourceforge.net/projects/andyyan-gsi/files/lineage-18.x/lineage-18.1-20240121-UNOFFICIAL-a64_bvS-vndklite.img.xz/download) /
+[18.1 bvS VNDKLite](https://sourceforge.net/projects/andyyan-gsi/files/lineage-18.x/lineage-18.1-20240121-UNOFFICIAL-a64_bvS-vndklite.img.xz/download)
+* [19.1 bvN VNDKLite](https://sourceforge.net/projects/andyyan-gsi/files/lineage-19.x/lineage-19.1-20250606-UNOFFICIAL-a64_bvN-vndklite.img.gz/download?use_mirror=liquidtelecom)
 
 Havoc OS:
 [Here](https://sourceforge.net/projects/havoc-os/files/a64-ab/)
@@ -28,7 +29,7 @@ Lineage OS:
 * [19.1 bvN](https://sourceforge.net/projects/andyyan-gsi/files/lineage-19.x/lineage-19.1-20231017-UNOFFICIAL-a64_bvN.img.xz/download) /
 [19.1 bvN VNDKLite](https://sourceforge.net/projects/andyyan-gsi/files/lineage-19.x/lineage-19.1-20231017-UNOFFICIAL-a64_bvN-vndklite.img.xz/download) /
 [19.1 bvS](https://sourceforge.net/projects/andyyan-gsi/files/lineage-19.x/lineage-19.1-20231017-UNOFFICIAL-a64_bvS.img.xz/download) /
-[19.1 bvS VNDKLite](https://sourceforge.net/projects/andyyan-gsi/files/lineage-19.x/lineage-19.1-20231017-UNOFFICIAL-a64_bvS-vndklite.img.xz/download)
+
 ## GSI 命名规则
 ```
 {arm|a64|arm64}_{a|b}{v|o|g}{N|S}-{vndklite|secure|personal}
